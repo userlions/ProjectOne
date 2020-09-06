@@ -21,3 +21,4 @@ b: bool = True
 c: bool = "Hello I am a string and going into boolean varialbe with warning"
 
 # Note: keywords in python are case sensitive so True works and true fails
+
