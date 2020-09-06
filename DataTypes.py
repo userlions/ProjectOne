@@ -1,6 +1,9 @@
+
+#Variable declaration style 1: Conventional method
 a = None;
 print(a);
 
+#Variable declaration style 2:
 a: int = "String apended";
 print(a);
 
